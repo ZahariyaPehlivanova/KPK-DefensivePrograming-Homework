@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.exe
+C:\Users\User\Desktop\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.pdb
+C:\Users\User\Desktop\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.exe
+C:\Users\User\Desktop\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.pdb
+C:\Users\User\Desktop\КПК\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.exe
+C:\Users\User\Desktop\КПК\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.pdb
+C:\Users\User\Desktop\КПК\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.exe
+C:\Users\User\Desktop\КПК\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.pdb
+C:\Users\User\Desktop\КПК\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+D:\SoftUni\VisualStudio\КПК\Homeworks\09.DefensivePrograming\Exceptions\obj\Debug\Exceptions-Homework.exe
+D:\SoftUni\VisualStudio\КПК\Homeworks\09.DefensivePrograming\Exceptions\obj\Debug\Exceptions-Homework.pdb
+D:\SoftUni\VisualStudio\КПК\Homeworks\09.DefensivePrograming\Exceptions\bin\Debug\Exceptions-Homework.exe
+D:\SoftUni\VisualStudio\КПК\Homeworks\09.DefensivePrograming\Exceptions\bin\Debug\Exceptions-Homework.pdb
+D:\SoftUni\VisualStudio\КПК\Homeworks\09.DefensivePrograming\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
